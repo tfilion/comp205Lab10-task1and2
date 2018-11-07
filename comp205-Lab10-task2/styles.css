@@ -1,0 +1,24 @@
+div {
+    width: 100%;
+    height: 300px;
+}
+
+.div1 {
+    background-color: grey;
+}
+
+.div2, .div3 {
+    background-image: url("Lab10-IMG.jpg");
+}
+
+.div3, .div4 {
+    position: absolute;
+    left: 0px; 
+    top: 600px;
+}
+
+.div4 {
+    background-color: red;
+    opacity: 0.3;
+}
+
